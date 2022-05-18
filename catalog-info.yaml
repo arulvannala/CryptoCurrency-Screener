@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: CryptoCurrency-Screener
+  annotations:
+    github.com/project-slug: arulvannala/CryptoCurrency-Screener
+spec:
+  type: other
+  lifecycle: unknown
+  owner: default-team
