@@ -30,3 +30,4 @@ The purpose of this project is to simplify things for cryptocurrency enthusiast 
 * https://cryptocurrency-screener.herokuapp.com/api/chart-symbols2
 * https://cryptocurrency-screener.herokuapp.com/api/chart
 
+test
